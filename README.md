@@ -1,9 +1,2 @@
-- 👋 Hi, I’m @faozdev . I'm an engineering student.
-- 👀 I’m interested in Python, Data Science.
-- 🌱 I’m currently learning Machine Learning, Deep Learning...
-- 💞️ I’m looking to collaborate on other engineers/developers.
-- 📫 2024 Goals: Contribute to open source projects.
 
-<!---
-
---->
+![faozdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faozdev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
